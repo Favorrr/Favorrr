@@ -5,9 +5,7 @@
   - [ Vulnerability Assessment](https://github.com/Favorrr/Projects-)
 
   - [ Controls and Compliance Assessment ](https://github.com/Favorrr/Controls-and-Compliance-Assessment-/blob/main/README.md) 
-- <b>SIEM Chronicles</b>
-  - [](https://github.com/Favorrr/SIEM-chronicles-/blob/main/README.md)
-  - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
+  - [SIEM](https://github.com/Favorrr/SIEM-chronicles-/blob/main/README.md)
   - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
   - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
 - <b>C# (.NET Desktop Applications)</b>
