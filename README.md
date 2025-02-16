@@ -5,8 +5,8 @@
   - [ Vulnerability Assessment](https://github.com/Favorrr/Projects-)
 
   - [ Controls and Compliance Assessment ](https://github.com/Favorrr/Controls-and-Compliance-Assessment-/blob/main/README.md) 
-- <b>PowerShell</b>
-  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
+- <b>SIEM Chronicles</b>
+  - [](https://github.com/Favorrr/SIEM-chronicles-/blob/main/README.md)
   - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
   - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
   - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
